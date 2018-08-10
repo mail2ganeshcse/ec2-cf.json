@@ -5,7 +5,7 @@
         "KeyName": {
             "Description": "baburao",
             "Type": "AWS::EC2::KeyPair::KeyName",
-            "Default": "baburao"
+            "Default": "testing"
         },
         "VPC": {
             "Type": "AWS::EC2::VPC",
